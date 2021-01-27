@@ -1,0 +1,9 @@
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\bin\Debug\Ej_UnitTest_EricPastor.exe.config
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\bin\Debug\Ej_UnitTest_EricPastor.exe
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\bin\Debug\Ej_UnitTest_EricPastor.pdb
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.Properties.Resources.resources
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.csproj.GenerateResource.cache
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.exe
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.pdb
