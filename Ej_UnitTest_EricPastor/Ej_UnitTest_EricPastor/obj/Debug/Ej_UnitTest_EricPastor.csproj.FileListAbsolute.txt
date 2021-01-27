@@ -7,3 +7,4 @@ D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\
 D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.csproj.CoreCompileInputs.cache
 D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.exe
 D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.pdb
+D:\Cursillos\Ejercicios\Proyectos\Ej_UnitTest_EricPastor\Ej_UnitTest_EricPastor\obj\Debug\Ej_UnitTest_EricPastor.Form1.resources
